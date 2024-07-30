@@ -1,13 +1,16 @@
-| Left |  Center  | Right |
-|:-----|:--------:|------:|
-| L0   | **bold** | $1600 |
-| L1   |  `code`  |   $12 |
-| L2   | _italic_ |    $1 |
+NOTA: AC = 'Actividad en casa'
 
-
-NOTE: H1 stans for Homework
-
-| Name | H1 |
+| Nombre | AC |
 |:-----|:--:|
 | Maria Fernanda Velasco Pineda | 
-| Maria Fernanda Velasco Pineda | 
+| Ariadna Sarai Ruiz Zarate | 
+| Itandehui Sarai Garcia Acevedo | 
+| Alvaro Ian Vazquez Chavez | 
+| Saul Oswaldo Gallardo Ramos | 
+| Brian Emmanuel Cruz Soriano | 
+| Emmanuel Avendano Lopez | 
+| Sergio Rios Avendano | 
+| Emiliano Martinez Rosas | 
+| Eileen Alexandra Ignacio Rojas | 
+| Ana Paola Garcia Cruz | 
+| Nadia Lizbeth Sosa Anaya | 
