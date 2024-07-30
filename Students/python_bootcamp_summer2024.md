@@ -2,7 +2,7 @@ NOTA: AC = 'Actividad en casa'
 
 | Nombre | AC |
 |:-----|:--:|
-| Maria Fernanda Velasco Pineda | 
+| Maria Fernanda Velasco Pineda | [Ejercicios 1](https://link-url-here.org)
 | Ariadna Sarai Ruiz Zarate | 
 | Itandehui Sarai Garcia Acevedo | 
 | Alvaro Ian Vazquez Chavez | 
