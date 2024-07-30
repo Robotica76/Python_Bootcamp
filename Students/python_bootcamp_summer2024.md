@@ -3,7 +3,7 @@ NOTA: AC = 'Actividad en casa', Ex = 'Expocision en clase'
 | Nombre | AC_1 |  AC_1 | Ex1, Tema: |
 |:-----|:--:|:--:|:--:|
 | Maria Fernanda Velasco Pineda | [Ejercicios 1](https://github.com/Robotica76/Python_Bootcamp/blob/main/Students/AC1.md) | Que necesito para hacer un asistente de voz? |Identacion en python |
-| Ariadna Sarai Ruiz Zarate | [Ejercicios 1](https://github.com/Robotica76/Python_Bootcamp/blob/main/Students/AC1.md) | Que necesito para hacer un asistente de voz?| Control de flujo: Sentencias condicionales |
+| Ariadna Jaelin Ruiz Zarate | [Ejercicios 1](https://github.com/Robotica76/Python_Bootcamp/blob/main/Students/AC1.md) | Que necesito para hacer un asistente de voz?| Control de flujo: Sentencias condicionales |
 | Itandehui Sarai Garcia Acevedo | [Ejercicios 1](https://github.com/Robotica76/Python_Bootcamp/blob/main/Students/AC1.md) | Que necesito para hacer un asistente de voz?| ¿Qué son los módulos? |
 | Alvaro Ian Vazquez Chavez | [Ejercicios 1](https://github.com/Robotica76/Python_Bootcamp/blob/main/Students/AC1.md) | Que necesito para hacer un asistente de voz?| ¿Qué son las excepciones? |
 | Saul Oswaldo Gallardo Ramos | [Ejercicios 1](https://github.com/Robotica76/Python_Bootcamp/blob/main/Students/AC1.md) | Que necesito para hacer un asistente de voz?| Entrada y salida (Funciones parainteractuar con el usuario) |
