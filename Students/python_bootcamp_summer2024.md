@@ -1,6 +1,6 @@
 NOTA: AC = 'Actividad en casa', Ex = 'Expocision en clase'
 
-| Nombre | AC_1 |  AC_1 | Ex1, Tema: |
+| Nombre | AC_1 |  Proyecto | Ex1, Tema: |
 |:-----|:--:|:--:|:--:|
 | Maria Fernanda Velasco Pineda | [Ejercicios 1](https://github.com/Robotica76/Python_Bootcamp/blob/main/Students/AC1.md) | Que necesito para hacer un asistente de voz? |Identacion en python :no_entry: |
 | Ariadna Jaelin Ruiz Zarate | [Ejercicios 1](https://github.com/Robotica76/Python_Bootcamp/blob/main/Students/AC1.md) | Que necesito para hacer un asistente de voz?| Control de flujo: Sentencias condicionales :star: :star:|
