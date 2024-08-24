@@ -10,3 +10,14 @@ For advance control on browser pip install pywhatkit
 To get wikipedia data pip install wikipedia
 
 To get funny jokes pip install pyjokes
+
+
+
+
+pip install speech_recognition
+pip install pyttsx3
+pip install wikipedia
+pip install pywhatkit
+pip install translate
+pip install pyaudio
+
